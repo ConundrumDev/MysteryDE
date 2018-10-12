@@ -1,0 +1,43 @@
+MysteryDE Change Log
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+	Changes
+
+0.1
+Put all of the XFCE4 dependencies and Openbox into the DE file
+
+0.2
+Themed Openbox and XFCE4 to look nice and to fit together
+
+0.3
+Added keybinds to actually be able to logout and lock the screen
+
+0.4 
+Added the XFCE4 power manager and network applet
+
+0.5
+Added the whisker menu to the XFCE4 bar
+
+0.6 
+Added the MysteryDE logo to the whisker menu button
+
+
+
+	Things that need to be added
+
+-An automatic .deb (for debian machines) and a .sh (for everyone else) that already has the .tar.gz files in it to be unpacked so that way when the user goes to install it, it won't require an internet connection
+
+-A logout GUI that comes up when you hit logout in the whisker menu
+
+-A GUI settings menu that has options for all of the settings
+
+-Some kind of a customizable thing for FEH so that way the Mystery logo can flash on bootup and the user can easily replace it with what they want
+
+
+
+
+
+
+
+
+
